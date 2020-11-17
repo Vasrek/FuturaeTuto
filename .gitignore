@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# ASSETS TO INGORE
+
+Content/FirstPerson
+Content/FirstPersonBP
+Content/Geometry
+Content/ModSci_Engineer
+Content/ModSci_EngiProps
+Content/ModSciInteriors
+Content/ParagonMinions
+Content/ParagonRampage
+Content/ParagonWraith
+Content/StarterBundle
+Content/StarterContent
